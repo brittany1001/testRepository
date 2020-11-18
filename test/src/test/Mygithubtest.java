@@ -16,7 +16,6 @@ public class Mygithubtest {
 	
 	private void select() {
 	System.out.println("11");
-
 	}
 	
 }
