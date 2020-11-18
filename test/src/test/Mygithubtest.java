@@ -18,4 +18,8 @@ public class Mygithubtest {
 	System.out.println("11");
 	}
 	
+	public void fun1() {
+		System.out.println("这是fun1()!!!");
+	}
+	
 }
