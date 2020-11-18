@@ -14,8 +14,8 @@ public class Mygithubtest {
 		System.out.println("这是删除方法！！！");
 	}
 	
-	private void ad() {
-	System.out.println("11111");
+	private void select() {
+	System.out.println("11");
 
 	}
 	
